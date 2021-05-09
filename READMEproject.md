@@ -1,4 +1,4 @@
-# Professional README Generator Starter Code
+# Professional README Generator
 
 GitHub URL: https://github.com/yana-mkr/README-generator
 
